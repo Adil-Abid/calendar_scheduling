@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'laravel/laravel',
-        'pretty_version' => 'dev-mongoDB-setup(Adil)',
-        'version' => 'dev-mongoDB-setup(Adil)',
-        'reference' => '10f03a2545bd01cee8c28c21eb3c81e5597ae785',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => null,
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -386,9 +386,9 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => 'dev-mongoDB-setup(Adil)',
-            'version' => 'dev-mongoDB-setup(Adil)',
-            'reference' => '10f03a2545bd01cee8c28c21eb3c81e5597ae785',
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => null,
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
